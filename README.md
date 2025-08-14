@@ -1,5 +1,7 @@
 # 📡 **Interconnect: Anticipando la Fuga con Machine Learning**
 
+![Banner comunicaciones](Banner%20comunicaciones.jpg)
+
 ## 📋 Descripción del problema  
 En Interconnect, cada cliente que se va representa más que una cifra: es una relación perdida.  
 Detectar a tiempo cuándo un usuario está por cancelar su servicio puede marcar la diferencia entre **retenerlo o dejarlo ir**.  
